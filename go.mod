@@ -16,6 +16,7 @@ require (
 	github.com/google/uuid v1.3.0 // indirect
 	github.com/leodido/go-urn v1.2.4 // indirect
 	github.com/montanaflynn/stats v0.0.0-20171201202039-1bf9dbcd8cbe // indirect
+	github.com/petaki/inertia-go v1.6.0 // indirect
 	github.com/philhofer/fwd v1.1.2 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/savsgio/dictpool v0.0.0-20221023140959-7bf2e61cea94 // indirect
